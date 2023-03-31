@@ -1,6 +1,6 @@
 Name:		texlive-zbmath-review-template
 Version:	59693
-Release:	1
+Release:	2
 Summary:	Template for a zbMATH Open review
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zbmath-review-template

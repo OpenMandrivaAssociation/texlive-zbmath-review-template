@@ -3,7 +3,7 @@ Version:	59693
 Release:	2
 Summary:	Template for a zbMATH Open review
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zbmath-review-template
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zbmath-review-template
 License:	gpl3 cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zbmath-review-template.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zbmath-review-template.doc.r%{version}.tar.xz
